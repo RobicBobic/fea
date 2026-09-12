@@ -150,7 +150,6 @@ export default function App() {
       {/* NAV */}
       <nav className="nav">
         <div className="brand">
-          <img src="/logo.png" alt="FEA logo" className="brand-mark" />
           FEA
         </div>
         <div className="nav-links">
@@ -493,7 +492,6 @@ export default function App() {
               Collectibles whose wallets make markets in tokenized NVDA on
               Robinhood Chain 4663. You keep the keys.
             </p>
-            <img src="/logo.png" alt="FEA logo" className="footer-mark" />
           </div>
           <div className="footer-col">
             <h5>NAVIGATE</h5>
